@@ -1,5 +1,5 @@
 {% set name = "django-waffle" %}
-{% set version = "2.3.0" %}
+{% set version = "2.4.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/django-waffle-{{ version }}.tar.gz
-  sha256: 8f457523859f39f77b785dfeb18d57d8c80d97ba05698aed7fa587bb86539476
+  sha256: f3ccbc3ed3ba465631f20a79f2e195e17250dec495ce2eabc5eb5bba6119f48f
 
 build:
   number: 0

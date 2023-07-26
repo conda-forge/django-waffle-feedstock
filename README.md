@@ -1,11 +1,11 @@
-About django-waffle
-===================
+About django-waffle-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-waffle-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/django-waffle/django-waffle
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-waffle-feedstock/blob/main/LICENSE.txt)
 
 Summary: A feature flipper for Django.
 
